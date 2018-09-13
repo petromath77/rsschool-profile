@@ -1,4 +1,4 @@
 # rsschool-profile
 rsschool-profile
-Yakimets Andrei 
+Yakimets Andrey
 HTML CSS Basics: https://www.codecademy.com/users/petrom/achievements
